@@ -1,4 +1,6 @@
 # grade_calculator
+
+# 진행상황 : 졸업이수학점계산기 모듈 완성
 kookmin_univ grade_calculator
 
 1. 단과대 입력
